@@ -1,6 +1,6 @@
 # APIs
 
-  - APIs desenvolvidas para projeto interno na empresa INmetrics
+  - APIs desenvolvidas para projeto interno na empresa INmetrics.
   
   - Três APIs conectadas entre si, que retornam qualquer valor (dos existentes no banco de dados) solicitado pelo usuário.
         
