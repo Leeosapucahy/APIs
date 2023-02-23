@@ -4,9 +4,9 @@
   
   - Três APIs conectadas entre si, que retornam qualquer valor (dos existentes no banco de dados) solicitado pelo usuário.
         
-       - Funciona através de endpoints, cada api possui um endpoint diferente.
+       - Funciona através de endpoints, cada api possui um endpoint diferente,
         
-       - Pode retornar um item do catálogo, clientes ou inventário.
+       - Pode retornar um item do catálogo, clientes ou inventário,
         
        - Cada cliente possui um inventário e pode possuir diversos itens do catálogo.
             
