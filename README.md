@@ -18,3 +18,5 @@
   - Utilizado PHPMyAdmin para gerenciamento do banco de dados de cada cliente.
   
   - Utilizado também o "Postman" para testar cada API e seus chamados.
+
+  - Espero que ajude! (;
